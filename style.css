@@ -1,12 +1,12 @@
 body {
-	font-family; "Times New Roman";
-	font-family: 40px;
+	font-family: "Times New Roman";
+	font-size: 40px;
 	color: Black;
 }
 
 h1 {
-	font-family; "Times New Roman";
-	font-family: 60px;
+	font-family: "Times New Roman";
+	font-size: 60px;
 	color: Black;
 	text-align: center;
 }
@@ -17,6 +17,6 @@ h1 {
 
 .linkform {
 	text-align: center;
-	font-family; "Arial";
-	font-family: 60px;
+	font-family: "Arial";
+	font-size: 60px;
 }
