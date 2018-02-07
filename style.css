@@ -13,10 +13,8 @@ h1 {
 	text-align: center;
 }
 
-#bio {
-	font-family; "Times New Roman";
-	font-family: 60px;
-	color: Black;
+.profpic {
 	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
 }
-
