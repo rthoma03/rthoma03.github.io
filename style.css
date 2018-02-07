@@ -8,8 +8,9 @@ h1 {
 	font-family; "Times New Roman";
 	font-family: 60px;
 	color: Black;
+	text-align: center;
 }
 
 .profpic {
-	margin:auto;
+	text-align: center;
 }
